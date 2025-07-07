@@ -1,0 +1,59 @@
+ body{
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+background-color: rgb(111, 217, 101);
+ }
+h1{
+  text-align: center;
+  font-style: italic;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  
+
+ }
+ .input-container{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+ }
+ .input-container>input{
+  width:300px;
+  height:30px;
+  font-size : 1.25rem;
+  border:3px solid black;
+
+
+ }
+ .input-container>button{
+  width:50px;
+  height:50px;
+  margin-top: 15px;
+  font-size : 2rem;
+  border-radius: 50%;
+ background-color: rgb(31, 142, 234);
+
+ }
+ .container{
+  margin-top: 25px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  
+  
+ }
+ .to-do{ 
+  width: 500px;
+  font-size: 1.5rem;
+  display:flex;
+  justify-content: space-between;
+  border-radius: 10px;
+  background-color: azure;
+  padding: 0px 5px;
+ }
+ .actions>button{
+  background-color:  rgb(31, 142, 234);
+  font-size:15px;
+  margin-top: 25px;
+  
+ }
+ .actions>input{
+  width:40px
+ }
