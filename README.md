@@ -21,4 +21,5 @@ CSS
 JavaScript (ES6)
 
 📸 Screenshots
-To-do Website.png
+
+![App Screenshot](https://github.com/Harsha125-art/To-Do-React-App/blob/c2a9027e3c1e74a330477b32463d298ce881f59e/To-do%20Website.png)
