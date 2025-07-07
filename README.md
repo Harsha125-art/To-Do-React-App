@@ -16,8 +16,10 @@ Responsive design for all screen sizes
 
 React JS (Functional Components & Hooks)
 
-CSS (or Tailwind/Bootstrap if used)
+CSS
 
 JavaScript (ES6)
 
 📸 Screenshots
+https://github.com/Harsha125-art/To-Do-React-App/blob/6976bdcdcf889ba61452f5684991a885a11460c3/To-do%20Website.png
+interface of to-do website
